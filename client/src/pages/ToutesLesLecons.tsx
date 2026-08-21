@@ -72,7 +72,7 @@ export default function ToutesLesLecons() {
       <SEO 
         title="Toutes les leçons de français" 
         description="Consultez le programme complet des 23 leçons de français de A1 à C1. Grammaire, vocabulaire et préparation DELF/DALF avec exercices corrigés."
-        image="/manus-storage/hero-livre_6af0dccc.png"
+        image="/images/hero.png"
       />
       <Header />
       <main>

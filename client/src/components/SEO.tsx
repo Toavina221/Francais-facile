@@ -13,7 +13,7 @@ interface SEOProps {
 
 const DEFAULT_TITLE = "FrançaisFacile+ — Apprenez le français gratuitement";
 const DEFAULT_DESC = "Plateforme gratuite de formation en français langue étrangère : leçons précises, exercices interactifs et quiz corrigés, niveaux A1 à C1, préparation DELF/TCF.";
-const DEFAULT_IMAGE = "/manus-storage/hero-livre_6af0dccc.png";
+const DEFAULT_IMAGE = "/images/hero.png";
 
 export default function SEO({ title, description, image, type = "website" }: SEOProps) {
   useEffect(() => {

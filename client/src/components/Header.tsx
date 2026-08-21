@@ -57,7 +57,7 @@ export default function Header() {
       <div className="container flex items-center justify-between h-16">
         <Link href="/" className="flex items-center gap-2.5">
           <img
-            src="/manus-storage/plume-logo_6ed97893.png"
+            src="/images/logo.png"
             alt="Logo FrançaisFacile+"
             className="size-9"
           />

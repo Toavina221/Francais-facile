@@ -114,7 +114,7 @@ export default function Home() {
           </div>
           <div className="fade-up hidden lg:block">
             <img
-              src="/manus-storage/hero-livre_6af0dccc.png"
+              src="/images/hero.png"
               alt="Illustration d'un livre de grammaire ouvert avec des lettres françaises"
               className="rounded-lg shadow-xl border border-border"
             />
@@ -233,7 +233,7 @@ export default function Home() {
           </div>
           <div className="hidden lg:block">
             <img
-              src="/manus-storage/quiz-examen_409cfa6a.png"
+              src="/images/quiz.png"
               alt="Illustration de feuilles d'examen avec un stylo"
               className="rounded-lg shadow-xl"
             />

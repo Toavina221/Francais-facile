@@ -11,7 +11,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-2.5 mb-3">
               <img
-                src="/manus-storage/plume-logo_6ed97893.png"
+                src="/images/logo.png"
                 alt="Logo"
                 className="size-8 brightness-[8] invert-0"
               />
